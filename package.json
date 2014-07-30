@@ -1,0 +1,31 @@
+{
+  "name": "drop-file-dataurl",
+  "version": "0.0.0",
+  "description": "Specify a drop area and get a dataurl. Simple as that.",
+  "main": "index.js",
+  "dependencies": {
+    "drag-and-drop-files": "0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "example": "beefy example.js:bundle.js -cwd example -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finnp/node-drop-file-dataurl.git"
+  },
+  "keywords": [
+    "dataurl",
+    "drop",
+    "dnd",
+    "dragandrop",
+    "filereader"
+  ],
+  "author": "Finn Pauls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finnp/node-drop-file-dataurl/issues"
+  },
+  "homepage": "https://github.com/finnp/node-drop-file-dataurl"
+}
