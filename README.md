@@ -6,7 +6,7 @@ This is created for the use with [Browserify](http://browserify.org/).
 
 
 ## Usage
-```
+```js
   require('drop-file-dataurl')(droparea, callback[, check])
 ```
 where the dataURL is passed to the `callback`. 
